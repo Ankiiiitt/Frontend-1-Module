@@ -10,6 +10,9 @@ The Codevo E-commerce Website Clone is a meticulously developed online shopping 
 - Product pages with detailed information and image galleries.
 
 ### Screenshots
+![Screenshot (105)](https://github.com/Ankiiiitt/Frontend-1-Module/assets/89211387/6ca64d54-f04f-403a-ae9f-d3b9dd84122f)
+![Screenshot (106)](https://github.com/Ankiiiitt/Frontend-1-Module/assets/89211387/69aa2577-a625-4b91-9742-81bbc7e73282)
+
 
 
 
