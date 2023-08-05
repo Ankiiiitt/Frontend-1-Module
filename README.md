@@ -9,15 +9,9 @@ The Codevo E-commerce Website Clone is a meticulously developed online shopping 
 - Home page showcasing featured products and categories.
 - Product pages with detailed information and image galleries.
 
-### Installation and Usage
-1. Clone the repository:
-   ```
-   
-2. Open the project folder:
-   ```
-   cd Frontend-1-Module
-   ```
-3. Open `index.html` in your web browser to view the home page.
+### Screenshots
+
+
 
 
 
